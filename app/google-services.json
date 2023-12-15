@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "342548299086",
+    "firebase_url": "https://msibfinalproject4-default-rtdb.firebaseio.com",
+    "project_id": "msibfinalproject4",
+    "storage_bucket": "msibfinalproject4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342548299086:android:d9ec5f0cde59dab957b21f",
+        "android_client_info": {
+          "package_name": "kelompok7.msibfinalproject_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mTRA2iQqvpIyDfxj_OnA_w1ISzbhrHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
